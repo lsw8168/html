@@ -52,10 +52,9 @@ body {
 .main_popup .pop_body .content {
   width: 100%;
   height: 100%;
-  background: yellow;
+  background-color: #f8f88f;
   box-sizing: border-box;
   float: left;
-  overflow: screen;
 }
 
 .main_popup .pop_bottom {
