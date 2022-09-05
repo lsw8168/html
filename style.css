@@ -57,6 +57,19 @@ body {
   float: left;
 }
 
+.main_popup .pop_body .content::-webkit-scrollbar-track {
+  border-radius: 0.125rem;
+  background-color: lightgray;
+}
+.main_popup .pop_body .content::-webkit-scrollbar {
+  width: 0.25rem;
+  border-radius: 0.125rem;
+}
+.main_popup .pop_body .content::-webkit-scrollbar-thumb {
+  border-radius: 0.125rem;
+  background-color: gray;
+}
+
 .main_popup .pop_bottom {
   position: absolute;
   bottom: 0;
